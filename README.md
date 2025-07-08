@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Elaya-bharathi-N
-- 👀 I’m interested in Ideation and Entrepreneurship.
-- 🌱 I’m currently learning Web developement and web3.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 You can connect with me on https://www.linkedin.com/in/elaya-bharathi-79588825b/
 - 😄 Pronouns: He/Him
   
